@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Người nổi tiếng</title>
+</head>
+<body>
+    <head><h1>Người nổi tiếng </h1> </head>
+    <img src="https://media.vneconomy.vn/w800/images/upload/2022/07/13/elon-musk-met-gala.jpg" alt="">
+    <h2>Giới thiệu </h2>
+    <p>Đây là trang wed giới thiệu về người nổi tiếng .Danh nhân này đã có những đóng góp quan trọng trong lĩnh vực của họ</p>
+    <h3>Thông tin cá nhân </h3>
+    <ul>
+        <li>Tên : <b>Elon Musk</b>    </li>
+        <li>Ngày sinh :<b> 28 tháng 6 năm 1971</b>.</li>
+        <li>Nơi sinh : <b>Pretoria, Nam Phi.</b> </li>
+        <li>Nghề nghiệp : <b>sư, nhà tài phiệt, nhà phát minh, doanh nhân công nghệ và nhà từ thiện người Mỹ gốc Nam Phi</b> </li>
+        
+    </ul>
+    <h4>Thành tựu </h4>
+    <ol>
+        <li>Tesla Motors</li>
+        <li>Neuralink</li>
+        <li>SolarCity</li>
+    </ol>
+    <h5>Liên kết </h5>
+    <p>Để biết thêm về danh nhân bạn có thể truy ccaapj vào các nguồn sau :</p>
+    <ul>
+        <li><a href="https://vi.wikipedia.org/wiki/Elon_Musk">WIKIPEDIA</a></li>
+        <li><a href="https://tuoitre.vn/elon-musk.html">Tuổi trẻ</a></li>
+    </ul>
+    <p>Cảm ơn bạn đã ghé thăm trang wed giới thiệu về danh nhân này .</p>
+    
+</body>
+</html>
